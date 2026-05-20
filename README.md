@@ -67,3 +67,23 @@ Passion: Building futuristic digital experiences
 <img src="https://github-profile-trophy.vercel.app/?username=BEKARTIKRAWAT&theme=tokyonight&row=1&column=6&margin-w=15&margin-h=15"/>
 </p>
 
+
+---
+
+# 🌐 CONNECT WITH ME
+
+<p align="center">
+
+<a href="https://github.com/BEKARTIKRAWAT">
+<img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://twitter.com">
+<img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+</p>

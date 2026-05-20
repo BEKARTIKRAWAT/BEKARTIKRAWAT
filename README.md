@@ -48,7 +48,17 @@ Passion: Building futuristic digital experiences
 
 
 ---
+---
 
+# 📊 GITHUB STATS
+
+<p align="center">
+
+<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=BEKARTIKRAWAT&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="49%" src="https://streak-stats.demolab.com?user=BEKARTIKRAWAT&theme=tokyonight&hide_border=true"/>
+
+</p>
 ---
 
 # 🏆 GITHUB TROPHIES

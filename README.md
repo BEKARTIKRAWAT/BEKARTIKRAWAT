@@ -7,3 +7,16 @@
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=AI+Developer+🤖;Full+Stack+Engineer+🚀;Next.js+Developer+⚡;Building+The+Future+With+Code" />
 </p>
+
+
+---
+
+# 💫 ABOUT ME
+
+```yaml
+Name: Kartik Rawat
+Role: Full Stack Developer
+Focus: AI Systems + Modern UI
+Learning: Next.js + AI Integration
+Passion: Building futuristic digital experiences
+```

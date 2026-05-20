@@ -67,12 +67,3 @@ Passion: Building futuristic digital experiences
 <img src="https://github-profile-trophy.vercel.app/?username=BEKARTIKRAWAT&theme=tokyonight&row=1&column=6&margin-w=15&margin-h=15"/>
 </p>
 
-# 📊 GITHUB STATS
-
-<p align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=BEKARTIKRAWAT&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=BEKARTIKRAWAT&theme=tokyonight&hide_border=true&background=0D1117"/>
-
-</p>

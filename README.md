@@ -22,3 +22,11 @@ Focus: AI Systems + Modern UI
 Learning: Next.js + AI Integration
 Passion: Building futuristic digital experiences
 ```
+
+---
+
+# ⚒️ TECH STACK
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,php,mysql,dotnet,git,github,vscode,tailwind,firebase&theme=dark" />
+</p>

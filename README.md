@@ -30,3 +30,18 @@ Passion: Building futuristic digital experiences
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,php,mysql,dotnet,git,github,vscode,tailwind,firebase&theme=dark" />
 </p>
+
+---
+
+# 🚀 CURRENT PROJECTS
+
+<div align="center">
+
+| PROJECT | DESCRIPTION |
+|---|---|
+| 🤖 AI Medical Platform | Smart futuristic AI healthcare assistant |
+| ⚡ AI-OS System | Multi-agent next-generation AI ecosystem |
+| 🌌 Premium Portfolio | Futuristic animated developer portfolio |
+| 💻 SaaS Dashboard UI | Modern responsive admin interfaces |
+
+</div>
